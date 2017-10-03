@@ -1,13 +1,13 @@
 # Rutgers Bootcamp Slack Community Guidelines && Code of Conduct
 
-## This policy was adopted from the FrontendLondon Slack community.This policy is a "living" document, and subject to refinement and expansion in the future. This policy applies to every Rutgers Bootcamp entity or event, including but not limited to the Slack community, in-person meetups, and our alumni program.
+This policy was adopted from the FrontendLondon Slack community.This policy is a "living" document, and subject to refinement and expansion in the future. This policy applies to every Rutgers Bootcamp entity or event, including but not limited to the Slack community, in-person meetups, and our alumni program.
 
 
 The simple version:
 
-be nice
-be honest
-be supportive
+- be nice
+- be honest
+- be supportive
 
 The details:
 
