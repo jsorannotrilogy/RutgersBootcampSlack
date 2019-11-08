@@ -55,9 +55,9 @@ If you say something that is found offensive, and you are called out on it, letâ
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently. If you have an issue with someone, Rutgers Continuing Education, or anything else, please contact your SSM or PM the mods in private.
 
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, please DM Juanita on Twitter (@juanitasoranno) or email juanita.soranno@ccpd.rutgers.edu.**
+**If you experience abuse, harassment, discrimination, or feel unsafe, please email cnadratowski@bootcampspot.com.**
 
 
-*Juanita will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+*Rutgers will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
 
 *Job adverts that don't specify the company or require contacting an external recuriter to apply will be removed*
